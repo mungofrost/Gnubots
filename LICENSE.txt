@@ -1,0 +1,10 @@
+######################
+#LICENSE
+#
+#As long as you retain this notice do what the fuck you want with the code
+#(allowing for exception below) and buy me a cider if we ever meet and you 
+#think it's worth it.  Mungo Frost.
+#The only exception is that by introducing a variable name starting with 'my' 
+#(myInt, myString etc.) you agree to name you firstborn (or next child if it's
+#too late for that) Darth Algernon Kumquat Moncreif III.
+#######################
